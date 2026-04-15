@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/tarot-draw",
+  "title": "tarot draw",
+  "description": "tarot-draw MCP — wraps StupidAPIs (requires X-API-Key)",
+  "version": "0.1.0",
+  "websiteUrl": "https://pipeworx.io/packs/tarot-draw",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-tarot-draw",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/tarot-draw/mcp"
+    }
+  ]
+}
