@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-tarot-draw",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "tarot-draw MCP — wraps StupidAPIs (keyless — no credential needed)",
   "type": "module",
   "main": "src/index.ts",
@@ -27,6 +27,6 @@
   },
   "pipeworx": {
     "sourceHash": "v1-579a87d24c49da86c4237b2a3a553ba7c8ec46159d71e8713388be4fa18dedd2",
-    "sourceCommit": "d4a9636716f113458bd312e487c065f76548df8c"
+    "sourceCommit": "66a0692f029179984440cef6938cba7fdd41d66d"
   }
 }
